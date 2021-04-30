@@ -3,14 +3,16 @@
 <!--
 **KamyNz/KamyNz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is **Camila M.** and I like coding, data science, bioinformatics, economics and many other topics😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github stats](https://github-readme-stats.vercel.app/api?username=KamyNz)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KamyNz&hide=html,jupyter%20notebook,JavaScript,SCSS,Less&layout=compact&langs_count=10)
+
+* 💬 &nbsp;I can speak English, and Spanish, and R (intermediate level) and Python (intermediate level) 
+* 🔭 &nbsp;I’m currently working on projects related with the Law Industry and Courses challenges
+* 🌱 &nbsp;I’m looking to collaborate on the data science community through social media
+* 👩🏻‍💻 &nbsp;Pronouns: She/her
+* 📫 &nbsp;How to reach me: 
+  * For my github repos, filing an an issue in the corresponding github repo.
+  * For R and Python help or related, stackoverflow or some other public forum so other people can benefit from your question (please don't email me R questions!).
+  * For others, email kamynz16@gmail.com
