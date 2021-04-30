@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**KamyNz/KamyNz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is **Camila M.** and I like coding, data science, bioinformatics, economics and many other topics😄
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=KamyNz)
