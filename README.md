@@ -11,5 +11,5 @@ My name is **Camila M.** and I like coding, data science, bioinformatics, econom
 * 👩🏻‍💻 &nbsp;Pronouns: She/her
 * 📫 &nbsp;How to reach me: 
   * For my github repos, filing an an issue in the corresponding github repo.
-  * For R and Python help or related, stackoverflow or some other public forum so other people can benefit from your question (please don't email me R questions!).
+  * For R and Python help or related, stackoverflow or some other public forum so other people can benefit from your question.
   * For others, email kamynz16@gmail.com
