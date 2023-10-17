@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kamymartinez/)
-- 🐦 [Twitter](https://twitter.com/kamynz16)
+- 🐦 [Twitter](https://twitter.com/KamyBytes)
 
 My name is **Camila M.** and I like coding, data science, bioinformatics, economics and many other topics😄
 
