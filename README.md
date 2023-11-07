@@ -3,12 +3,22 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/kamymartinez/)
 - 🐦 [Twitter](https://twitter.com/KamyBytes)
 
-My name is **Camila M.** and I like coding, data science, bioinformatics, economics and many other topics😄
+My name is **Camila M.** and I love working with data and making sense of it, creating data science projects in Cloud (AWS). DS4A Colombia graduate.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=KamyNz)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KamyNz&hide=html,jupyter%20notebook,JavaScript,SCSS,Less&layout=compact&langs_count=10)
+### Data Science Skills :dart:
+- Data analysis :chart_with_upwards_trend:
+- Data visualization :bar_chart:
+- Python programming :snake:
+- SQL :floppy_disk:
+- Data processing :arrows_counterclockwise:
+- Extract, Transform, Load (ETL) :gear:
 
-* 💬 &nbsp;I can speak English, and Spanish, and R (intermediate level) and Python (intermediate level) 
+### Cloud Engineer Skills :dart:
+- Cloud (AWS)
+- DevOps (Git, Jenkins)
+- Familiarity with Ansible, Terraform, and Kubernetes
+
+* 💬 &nbsp;I can speak English, and Spanish, and R and Python.
 * 🔭 &nbsp;I’m currently working on projects related with [MLOPs in cloud (AWS)](https://github.com/KamyNz/awscomunityday2023), [FastApi for an app](https://github.com/TechWizardEngineer/BudgetYNABProgram) that allows me to integrate my bank transactions to my [YNAB Account](https://www.ynab.com/), Law Industry and Courses challenges
 * 🌱 &nbsp;I’m looking to collaborate on the MLOPs, AWS community through social media. I am currently a volunteer in the AWS Women Colombia. 
 * 👩🏻‍💻 &nbsp;Pronouns: She/her
