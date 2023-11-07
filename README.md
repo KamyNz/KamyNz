@@ -1,9 +1,10 @@
-### Hi there 👋
+## Hi there! 👋
 
+Connect with me:
 - 💼 [LinkedIn](https://www.linkedin.com/in/kamymartinez/)
 - 🐦 [Twitter](https://twitter.com/KamyBytes)
 
-My name is **Camila M.** and I love working with data and making sense of it, creating data science projects in Cloud (AWS). DS4A Colombia graduate.
+I'm **Camila M.**, passionate about data and adept at crafting meaningful data science projects on Cloud platforms, particularly AWS. A proud graduate of DS4A Colombia.
 
 ### Data Science Skills :dart:
 - Data analysis :chart_with_upwards_trend:
@@ -14,15 +15,16 @@ My name is **Camila M.** and I love working with data and making sense of it, cr
 - Extract, Transform, Load (ETL) :gear:
 
 ### Cloud Engineer Skills :dart:
-- Cloud (AWS)
-- DevOps (Git, Jenkins)
-- Familiarity with Ansible, Terraform, and Kubernetes
+- Cloud (AWS) ☁️
+- DevOps (Git, Jenkins) :wrench:
+- Familiarity with Ansible, Terraform, and Kubernetes ☁️
 
-* 💬 &nbsp;I can speak English, and Spanish, and R and Python.
-* 🔭 &nbsp;I’m currently working on projects related with [MLOPs in cloud (AWS)](https://github.com/KamyNz/awscomunityday2023), [FastApi for an app](https://github.com/TechWizardEngineer/BudgetYNABProgram) that allows me to integrate my bank transactions to my [YNAB Account](https://www.ynab.com/), Law Industry and Courses challenges
-* 🌱 &nbsp;I’m looking to collaborate on the MLOPs, AWS community through social media. I am currently a volunteer in the AWS Women Colombia. 
-* 👩🏻‍💻 &nbsp;Pronouns: She/her
-* 📫 &nbsp;How to reach me: 
-  * For my github repos, filing an an issue in the corresponding github repo.
-  * For R and Python help or related, ChatGPT, stackoverflow or some other public forum so other people can benefit from your question.
-  * For others, email kamynz16@gmail.com
+### Other Interests
+* 💬 &nbsp; Fluent in English, Spanish, R, and Python.
+* 🔭 &nbsp; Currently immersed in projects related to [MLOps on AWS](https://github.com/KamyNz/awscomunityday2023), developing a [FastApi application](https://github.com/TechWizardEngineer/BudgetYNABProgram) that integrates my bank transactions with my [YNAB Account](https://www.ynab.com/), exploring the intersection of the Law Industry and technology, and engaging in various learning challenges.
+* 🌱 &nbsp; Eager to collaborate on MLOps and AWS community initiatives through social media. Actively volunteering in AWS Women Colombia, Women in Data Science, and PyLadies communities.
+* 👩🏻‍💻 &nbsp; Pronouns: She/her
+* 📫 &nbsp; How to reach me: 
+  * For GitHub repos, feel free to open an issue in the corresponding repository.
+  * For R and Python assistance, connect with me on ChatGPT, Stack Overflow, or other public forums so others can benefit from your questions.
+  * For other inquiries, email me at kamynz16@gmail.com.
