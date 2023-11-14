@@ -30,6 +30,8 @@ I'm **Camila M.**, passionate about data and adept at crafting meaningful data s
 * 🔭 Developing a [FastApi application](https://github.com/TechWizardEngineer/BudgetYNABProgram) that integrates my bank transactions with my 
             [YNAB Account](https://www.ynab.com/)
 
+### Other Interests
+
 * Also, exploring the intersection of the Law Industry and technology, and engaging in various learning challenges.
 * 🌱 &nbsp; Eager to collaborate on MLOps and AWS community initiatives through social media. Actively volunteering in AWS Women Colombia, Women in Data Science, and PyLadies communities.
 * 👩🏻‍💻 &nbsp; Pronouns: She/her
