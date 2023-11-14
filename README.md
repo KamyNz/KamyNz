@@ -6,6 +6,8 @@ Connect with me:
 
 I'm **Camila M.**, passionate about data and adept at crafting meaningful data science projects on Cloud platforms, particularly AWS. A proud graduate of DS4A Colombia.
 
+* 💬 &nbsp; Fluent in English, Spanish, R, and Python.
+
 ### Data Science Skills :dart:
 - Data analysis :chart_with_upwards_trend:
 - Data visualization :bar_chart:
@@ -19,14 +21,13 @@ I'm **Camila M.**, passionate about data and adept at crafting meaningful data s
 - DevOps (Git, Jenkins) :wrench:
 - Familiarity with Ansible, Terraform, and Kubernetes ☁️
 
-### Other Interests
-* 💬 &nbsp; Fluent in English, Spanish, R, and Python.
-* 🔭 &nbsp; Currently immersed in projects related to:
-          - [First steps in MLOps as culture and using MLFlow](https://github.com/KamyNz/pydaycali2023-mlops-)
+### Current Projects
 
-          - [First steps in MLOps on AWS](https://github.com/KamyNz/awscomunityday2023)
+* 🔭 [First steps in MLOps as culture and using MLFlow](https://github.com/KamyNz/pydaycali2023-mlops-)
 
-          - Developing a [FastApi application](https://github.com/TechWizardEngineer/BudgetYNABProgram) that integrates my bank transactions with my 
+* 🔭 [First steps in MLOps on AWS](https://github.com/KamyNz/awscomunityday2023)
+
+* 🔭 Developing a [FastApi application](https://github.com/TechWizardEngineer/BudgetYNABProgram) that integrates my bank transactions with my 
             [YNAB Account](https://www.ynab.com/)
 
 * Also, exploring the intersection of the Law Industry and technology, and engaging in various learning challenges.
