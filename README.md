@@ -8,19 +8,6 @@ I'm **Camila M.**, passionate about data and adept at crafting meaningful data s
 
 * 💬 &nbsp; Fluent in English, Spanish, R, and Python.
 
-### Data Science Skills :dart:
-- Data analysis :chart_with_upwards_trend:
-- Data visualization :bar_chart:
-- Python programming :snake:
-- SQL :floppy_disk:
-- Data processing :arrows_counterclockwise:
-- Extract, Transform, Load (ETL) :gear:
-
-### Cloud Engineer Skills :dart:
-- Cloud (AWS) ☁️
-- DevOps (Git, Jenkins) :wrench:
-- Familiarity with Ansible, Terraform, and Kubernetes ☁️
-
 ### Current Projects
 
 * 🔭 [First steps in MLOps as culture and using MLFlow](https://github.com/KamyNz/pydaycali2023-mlops-)
@@ -30,6 +17,19 @@ I'm **Camila M.**, passionate about data and adept at crafting meaningful data s
 * 🔭 Developing a [FastApi application](https://github.com/TechWizardEngineer/BudgetYNABProgram) that integrates my bank transactions with my 
             [YNAB Account](https://www.ynab.com/)
 
+### Cloud Engineer Skills :dart:
+- Cloud (AWS) ☁️
+- DevOps (Git, Jenkins) :wrench:
+- Familiarity with Ansible, Terraform, and Kubernetes ☁️
+  
+### Data Science Skills :dart:
+- Data analysis :chart_with_upwards_trend:
+- Data visualization :bar_chart:
+- Python programming :snake:
+- SQL :floppy_disk:
+- Data processing :arrows_counterclockwise:
+- Extract, Transform, Load (ETL) :gear:
+  
 ### Other Interests
 
 * Also, exploring the intersection of the Law Industry and technology, and engaging in various learning challenges.
