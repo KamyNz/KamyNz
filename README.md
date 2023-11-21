@@ -18,7 +18,7 @@ I'm **Camila M.**, passionate about data and adept at crafting meaningful data s
 
 * 🔭 Cloud Engineer / Architect for [Sensor Social Project](https://poc-obm.caobalab.co/). Repository with [Overview of Sensor Social Cloud Architecture](https://github.com/KamyNz/demo-terraform-2023/tree/main/puj-202302-poc-obm-project)
 
-* 🔭 ML Engineer for the deployment of the project **Seal of Excellence for Open Data Quality**, a proof of concept project with Universidad de los Andes. Repository with [Overview of Seal of Excellence for Open Data Quality](https://github.com/KamyNz/demo-terraform-2023/blob/main/uniandes-202302-poc-053-mintic/README.md)
+* 🔭 ML Engineer for the deployment of the project **Seal of Excellence for Open Data Quality** in Azure, a proof of concept project with Universidad de los Andes. Repository with [Overview of Seal of Excellence for Open Data Quality](https://github.com/KamyNz/demo-terraform-2023/blob/main/uniandes-202302-poc-053-mintic/README.md)
 
 * 🔭 Developing a [FastApi application](https://github.com/TechWizardEngineer/BudgetYNABProgram) that integrates my bank transactions with my [YNAB Account](https://www.ynab.com/)
 
