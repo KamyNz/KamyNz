@@ -16,7 +16,7 @@ I'm **Camila M.**, passionate about data and adept at crafting meaningful data s
 
 * 🔭 Developing a [Terraform Project for the AWS Community Day Conference Demo (No Modules)](https://github.com/KamyNz/demo-projects-2023/tree/main/awscday2023-terraform-mlflow/project-mlflow)
 
-* * 🔭 Developing a [Terraform Project for the AWS Community Day Conference Demo (With Modules)](https://github.com/KamyNz/demo-projects-2023/tree/main/awscday2023-terraform-mlflow/experiment-modules-mlflow)
+* 🔭 Developing a [Terraform Project for the AWS Community Day Conference Demo (With Modules)](https://github.com/KamyNz/demo-projects-2023/tree/main/awscday2023-terraform-mlflow/experiment-modules-mlflow)
 
 * 🔭 Cloud Engineer / Architect for [Sensor Social Project](https://poc-obm.caobalab.co/). Repository with [Overview of Sensor Social Cloud Architecture](https://github.com/KamyNz/demo-terraform-2023/tree/main/puj-202302-poc-obm-project)
 
