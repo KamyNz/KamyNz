@@ -6,7 +6,7 @@ Connect with me:
 
 I'm **Camila M.**, passionate about data and adept at crafting meaningful data science projects on Cloud platforms, particularly AWS. A proud graduate of DS4A Colombia.
 
-* 💬 &nbsp; Fluent in English, Spanish, R, and Python.
+* 💬 &nbsp; Fluent in English, Spanish, Python and R. 
 
 ### Current Projects
 
