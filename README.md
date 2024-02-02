@@ -10,19 +10,26 @@ I'm **Camila M.**, passionate about data and adept at crafting meaningful data s
 
 ### Current Projects
 
+#### AWS + MLOPs
+
 * 🔭 [First steps in MLOps as culture and using MLFlow - PyDayCali Conference](https://github.com/KamyNz/pydaycali2023-mlops-)
 
 * 🔭 [First steps in MLOps on AWS - AWS Community Day Conference](https://github.com/KamyNz/awscomunityday2023)
+
+* 🔭 Cloud Engineer / Architect for [Sensor Social Project](https://poc-obm.caobalab.co/). Repository with [Overview of Sensor Social Cloud Architecture](https://github.com/KamyNz/demo-terraform-2023/tree/main/puj-202302-poc-obm-project)
+
+#### AWS + Terraform
 
 * 🔭 Developing a [Terraform Project for the AWS Community Day Conference Demo (No Modules)](https://github.com/KamyNz/demo-projects-2023/tree/main/awscday2023-terraform-mlflow/project-mlflow)
 
 * 🔭 Developing a [Terraform Project for the AWS Community Day Conference Demo (With Modules)](https://github.com/KamyNz/demo-projects-2023/tree/main/awscday2023-terraform-mlflow/experiment-modules-mlflow)
 
-* 🔭 Cloud Engineer / Architect for [Sensor Social Project](https://poc-obm.caobalab.co/). Repository with [Overview of Sensor Social Cloud Architecture](https://github.com/KamyNz/demo-terraform-2023/tree/main/puj-202302-poc-obm-project)
-
+#### AZURE + Terraform
 * 🔭 Cloud Engineer for deploying the project **Seal of Excellence for Open Data Quality** in Azure, a proof of concept project with Universidad de los Andes. Repository with [Overview of Seal of Excellence for Open Data Quality](https://github.com/KamyNz/demo-terraform-2023/blob/main/uniandes-202302-poc-053-mintic/README.md)
 
+#### Github Actions + Docker + Python (FastAPI)
 * 🔭 Developing a [FastApi application](https://github.com/TechWizardEngineer/BudgetYNABProgram) that integrates my bank transactions with my [YNAB Account](https://www.ynab.com/)
+
 
 ### Cloud Engineer Skills :dart:
 - Cloud (AWS) ☁️
