@@ -10,6 +10,19 @@ I'm **Camila M.**, passionate about data and adept at crafting meaningful data s
 
 ### Current Projects
 
+#### CI/CD + Jenkins + GithubActions + Terraform
+
+* 🔭 Developing a [CI/CD with Jenkins + AWS + Terraform](https://github.com/KamyNz/ci-cd-jenkins-terraform)
+
+* 🔭 Developing a [CI/CD with GithubActions for a Springboot Project](https://github.com/KamyNz/ci-cd-springboot-demo/)
+
+
+#### AWS + Terraform
+
+* 🔭 Developing a [Terraform Project for the AWS Community Day Conference Demo (No Modules)](https://github.com/KamyNz/demo-projects-2023/tree/main/awscday2023-terraform-mlflow/project-mlflow)
+
+* 🔭 Developing a [Terraform Project for the AWS Community Day Conference Demo (With Modules)](https://github.com/KamyNz/demo-projects-2023/tree/main/awscday2023-terraform-mlflow/experiment-modules-mlflow)
+
 #### AWS + MLOPs
 
 * 🔭 [First steps in MLOps as culture and using MLFlow - PyDayCali Conference](https://github.com/KamyNz/pydaycali2023-mlops-)
@@ -17,12 +30,6 @@ I'm **Camila M.**, passionate about data and adept at crafting meaningful data s
 * 🔭 [First steps in MLOps on AWS - AWS Community Day Conference](https://github.com/KamyNz/awscomunityday2023)
 
 * 🔭 Cloud Engineer / Architect for [Sensor Social Project](https://poc-obm.caobalab.co/). Repository with [Overview of Sensor Social Cloud Architecture](https://github.com/KamyNz/demo-terraform-2023/tree/main/puj-202302-poc-obm-project)
-
-#### AWS + Terraform
-
-* 🔭 Developing a [Terraform Project for the AWS Community Day Conference Demo (No Modules)](https://github.com/KamyNz/demo-projects-2023/tree/main/awscday2023-terraform-mlflow/project-mlflow)
-
-* 🔭 Developing a [Terraform Project for the AWS Community Day Conference Demo (With Modules)](https://github.com/KamyNz/demo-projects-2023/tree/main/awscday2023-terraform-mlflow/experiment-modules-mlflow)
 
 #### AZURE + Terraform
 * 🔭 Cloud Engineer for deploying the project **Seal of Excellence for Open Data Quality** in Azure, a proof of concept project with Universidad de los Andes. Repository with [Overview of Seal of Excellence for Open Data Quality](https://github.com/KamyNz/demo-terraform-2023/blob/main/uniandes-202302-poc-053-mintic/README.md)
