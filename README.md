@@ -19,9 +19,9 @@ I'm **Camila M.**, passionate about data and adept at crafting meaningful data s
 
 #### AWS + Terraform
 
-* 🔭 Developing a [Terraform Project for the AWS Community Day Conference Demo (No Modules)](https://github.com/KamyNz/demo-projects-2023/tree/main/awscday2023-terraform-mlflow/project-mlflow)
+* 🔭 Developed a [Terraform Project for the AWS Community Day Conference Demo (No Modules)](https://github.com/KamyNz/demo-projects-2023/tree/main/awscday2023-terraform-mlflow/project-mlflow)
 
-* 🔭 Developing a [Terraform Project for the AWS Community Day Conference Demo (With Modules)](https://github.com/KamyNz/demo-projects-2023/tree/main/awscday2023-terraform-mlflow/experiment-modules-mlflow)
+* 🔭 Developed a [Terraform Project for the AWS Community Day Conference Demo (With Modules)](https://github.com/KamyNz/demo-projects-2023/tree/main/awscday2023-terraform-mlflow/experiment-modules-mlflow)
 
 #### AWS + MLOPs
 
