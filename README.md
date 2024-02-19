@@ -6,15 +6,15 @@ Connect with me:
 
 I'm **Camila M.**, passionate about data and adept at crafting meaningful data science projects on Cloud platforms, particularly AWS. A proud graduate of DS4A Colombia.
 
-* 💬 &nbsp; Fluent in English, Spanish, Python and R. 
+* 💬 &nbsp; Fluent in English (Advanced - C2), Spanish, Python and R. 
 
 ### Current Projects
 
 #### CI/CD + Jenkins + GithubActions + Terraform
 
-* 🔭 Developing a [CI/CD with Jenkins + AWS + Terraform](https://github.com/KamyNz/ci-cd-jenkins-terraform)
+* 🔭 Developed a project: [CI/CD with Jenkins + AWS + Terraform](https://github.com/KamyNz/ci-cd-jenkins-terraform)
 
-* 🔭 Developing a [CI/CD with GithubActions for a Springboot Project](https://github.com/KamyNz/ci-cd-springboot-demo/)
+* 🔭 Developed a project: [CI/CD with GithubActions for a Springboot Project](https://github.com/KamyNz/ci-cd-springboot-demo/)
 
 
 #### AWS + Terraform
